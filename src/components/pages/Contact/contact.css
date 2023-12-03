@@ -1,0 +1,26 @@
+.contacto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.input, .input2 {
+    width: 550px;
+    height: 30px;
+    border-radius: 5px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    border: 2px solid rgb(204, 201, 201);
+}
+
+.button {
+    width: 80px;
+    height: 30px;
+    margin-left: 250px;
+    margin-top: 10px;
+    font-size: medium;
+    border-radius: 5px;
+    background-color:  rgb(192, 53, 53);
+    color: beige;
+}

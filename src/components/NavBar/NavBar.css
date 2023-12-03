@@ -1,0 +1,17 @@
+.NavBar {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 30px;    
+    background-color: rgb(192, 53, 53);
+    color: beige;
+}
+
+a {
+    text-decoration: none;
+    color: beige;
+}
+
+.menu {
+    display: flex;
+    gap:10px;
+}
